@@ -32,7 +32,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/online-shopping-app.git
+git clone https://github.com/kpj31/online-shopping-app.git
 cd online-shopping-app
 
 Backend setup:
